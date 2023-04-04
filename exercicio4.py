@@ -1,0 +1,10 @@
+nome = input("qual o nome?")
+placa = input("qual a placa?")
+modelo = input("qual o o modelo do caro?")
+cor = input("qual a cor do carro?")
+
+print(f"pra confirmar os dados")
+print(f"o nome e {nome}")
+print(f"a placa e: {placa}")
+print(f"o modelo do carro e? {modelo}")
+print(f"e a cor do carro e: {cor}")

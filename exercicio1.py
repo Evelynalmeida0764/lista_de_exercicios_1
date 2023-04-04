@@ -1,0 +1,5 @@
+nome = input("qual seu nome?")
+idade = input("qual sua idade?")
+genero = input("quhal seu genero?")
+endereco = input(" qual seu endereco?")
+telefone = input("e por ultimo qual seu telefone?")

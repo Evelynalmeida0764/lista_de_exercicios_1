@@ -1,0 +1,10 @@
+nome = input("qual seu nome?")
+nota1 = input("qual a nota do 1 bimestre?")
+nota2 = input("qual a nota do 2 bimestre?")
+nota3 = input("qual a nota do 3 bimestre?")
+nota4 = input("qual a nota do 4 bimestre?")
+
+print(f"sua nota no 1 bimestre foi: {nota1}")
+print(f"sua nota no 2 bimestre foi: {nota2}")
+print(f"sua nota no 3 bimestre foi: {nota3}")
+print(f"sua nota no 4 bimestre foi: {nota4}")
